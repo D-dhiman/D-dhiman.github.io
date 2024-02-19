@@ -16,8 +16,7 @@ nav{
     top:0%;
     width:100%;
     min-height:13%;
-    background-image:url("nav-removebg-preview.png");
-    border-bottom: #f1b534 solid;
+    
     
 }
 nav ul{
@@ -26,7 +25,8 @@ nav ul{
     padding:0 auto;
     overflow:hidden;
     display:flex;
-    
+    background-image:url("nav-removebg-preview.png");
+    border-bottom: #f1b534 solid;
 }
 nav ul li{
     float:center;
